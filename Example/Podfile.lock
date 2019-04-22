@@ -1,0 +1,16 @@
+PODS:
+  - TVNetworkLayout (0.1.0)
+
+DEPENDENCIES:
+  - TVNetworkLayout (from `../`)
+
+EXTERNAL SOURCES:
+  TVNetworkLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TVNetworkLayout: 1bfc9c6ea0abff622c06eec6c6cbaf09590ae649
+
+PODFILE CHECKSUM: dc8581f685de185ceea4f8b62b02d45db75b915d
+
+COCOAPODS: 1.6.0
