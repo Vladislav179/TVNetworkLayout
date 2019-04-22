@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TVNetworkLayout_Example' do
+  pod 'TVNetworkLayout', :path => '../'
+
+  target 'TVNetworkLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
